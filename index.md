@@ -5,7 +5,7 @@ layout: page
 
 # About Me
 
-<img src="=https://rubyliou1023.github.io/guanru_bio.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="=https://rubyliou1023.github.io/guanru_bio.jpg" class="floatpic" width="360" height="480"> -->
 
 Hi, I'm **Kuan-Ru Liou (劉冠汝)**, and I am passionate about the Large Language Model and Data Mining.  My research expertise spans 1 year in Large Language Model and Natural Language Processing, with a paper published at IJMLC 2024 and ICLR workshop 2024. At ASU, I've served as a Graduate Services Assistant - Grader for Data Mining Course, and I've enjoyed interdisciplinary collaboration experience working as an Data Analysis intern in Edplus. I'm driven by the potential of technology to create impactful solutions.I am a second year master student in **Computer Science** at Arizona State University where I am supervised by Prof. [Hua Wei](https://www.public.asu.edu/~hwei27/). Prior to this, I obtained my bachelor's degree in computer science from National Defense University in 2023. You can find my CV [here](=https://rubyliou1023.github.io/file/Guanru_CV_090524.pdf).
 
