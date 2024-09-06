@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
----
+
 
 # About Me
 
@@ -30,6 +30,9 @@ Hi, I'm **Kuan-Ru Liou (劉冠汝)**, and I am passionate about the Large Langua
 - Data Mining and Analytics
 - Artificial Intelligence
 
+<br>
+
+---
 
 
 <!-- ## News and Updates
