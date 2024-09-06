@@ -1,9 +1,6 @@
 ---
 layout: page
 ---
-
-
-
 ---
 
 # About Me
